@@ -6,7 +6,12 @@
 
 ## 📸 Game Preview
 
+> 📝 Two different moments from gameplay
+
 ![Game Preview](hungry-game.gif)
+---
+![Game Preview](hungry-game-2.gif)
+
 
 ---
 
